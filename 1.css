@@ -1,0 +1,10 @@
+input[type=button]:hover {
+  background-color: red;
+}
+
+h2 {
+  color: red;
+}
+body {
+  background-color: powderblue;
+}
